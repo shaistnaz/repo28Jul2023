@@ -1,0 +1,5 @@
+putty
+Mobaxterm
+AWS console
+GIT
+Kubernetes
